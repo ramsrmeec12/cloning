@@ -1,2 +1,0 @@
-print("ram")
-print("ram")
